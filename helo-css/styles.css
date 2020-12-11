@@ -1,0 +1,35 @@
+body {
+    color: #414141;
+    background-color: #EEEEEE;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: "Comic Sans MS"
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
